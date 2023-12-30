@@ -8,7 +8,7 @@
                 "input_1": {"label": "First Name", "placeholder": "Your first name"},
                 "input_2": {"label": "Last Name", "placeholder": "Your last name"},
                 "input_3": {"label": "Email", "placeholder": "Your email address"},
-                "input_4": {"label": "Password", "placeholder": "Your email address"}
+                "input_4": {"label": "Password", "placeholder": ""}
             },
 
             "form_btns": {
