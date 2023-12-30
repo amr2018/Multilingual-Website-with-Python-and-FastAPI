@@ -1,0 +1,23 @@
+{
+    "web_pages": [
+    {
+        "signup_page": {
+            "form_name": "Sinscrire",
+            "form_des": "Creer un compte gratuit maintenant",
+            "form_inputs": {
+                "input_1": {"label": "Prenom", "placeholder": "Votre prenom"},
+                "input_2": {"label": "Nom", "placeholder": "Votre nom de famille"},
+                "input_3": {"label": "Messagerie electronique", "placeholder": "Votre adresse e-mail"},
+                "input_4": {"label": "Mot de passe", "placeholder": ""}
+            },
+
+            "form_btns": {
+                "signup_btn": "Sinscrire"
+            }
+        }
+
+
+    }
+
+]
+}

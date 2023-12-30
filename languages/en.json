@@ -1,0 +1,23 @@
+{
+    "web_pages": [
+    {
+        "signup_page": {
+            "form_name": "SignUp",
+            "form_des": "Create free account now",
+            "form_inputs": {
+                "input_1": {"label": "First Name", "placeholder": "Your first name"},
+                "input_2": {"label": "Last Name", "placeholder": "Your last name"},
+                "input_3": {"label": "Email", "placeholder": "Your email address"},
+                "input_4": {"label": "Password", "placeholder": "Your email address"}
+            },
+
+            "form_btns": {
+                "signup_btn": "SignUp"
+            }
+        }
+
+
+    }
+
+]
+}
